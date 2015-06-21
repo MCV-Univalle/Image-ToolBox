@@ -1,5 +1,5 @@
 # Image-ToolBox
-We are Computer Science students from Universidad del Valle working on a Pure JavaScript Image Processing library in collaboration with EPFL. 
+We are a group of Computer Science students from the Universidad del Valle, Colombia, working on an image processing project  to create a library using a Pure JavaScript in collaboration with the EPFL, Switzerland.
 
 #Description
 This repository has a extension of Image-JS library. General image processing functions in JavaScript 
