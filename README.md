@@ -6,4 +6,6 @@ This repository has a extension of Image-JS library. General image processing fu
 
 #Content
 - Read images
-- Load images (Ways to process images efficiently)
+- Load images (Ways to process images efficiently) in different file formats (TIFF, GIG, PNG, JPEG, BMP, PBM)
+- Make Histograms in one color or for differents channels (RGB, HSV, etc)
+- Point operations (Inverting images, threshold operation, automatic contrast adjustment)
